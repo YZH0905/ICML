@@ -1,5 +1,22 @@
 ![image](https://github.com/YZH0905/ICML/blob/master/Convergence%20curve%202-2.png)
+
 Figure1: Convergence curve comparison diagram.
+
+![image](https://github.com/YZH0905/ICML/blob/master/varepsilon_1.png)
+
+Figure2: The efftcts of $\varepsilon_1$.
+
+![image](https://github.com/YZH0905/ICML/blob/master/varepsilon_2.png)
+
+Figure3: The efftcts of $\varepsilon_2$ 
+
+![image](https://github.com/YZH0905/ICML/blob/master/varepsilon_3.png)
+
+Figure4: The efftcts of $\varepsilon_3$ 
+
+![image](https://github.com/YZH0905/ICML/blob/master/lambda.png)
+
+Figure5: The efftcts of $lambda$ 
 
 |      | 0.5  | 1    | 5    | 10   |
 |------|------|------|------|------|
@@ -11,6 +28,7 @@ Figure1: Convergence curve comparison diagram.
 | T    | 73.4 | 73.5 | 73.1 | 72.8 |
 | S    | 79.9 | 79.6 | 79.3 | 79.2 |
 | Twe  | 82.1 | 82.4 | 81.9 | 81.6 |
+
 Table1: The efftcts of $\varepsilon_1$. 
 
 |      | 0.3  | 0.6  | 1    | 10   | 35   | 70   | 100  | 1000 |
@@ -23,6 +41,7 @@ Table1: The efftcts of $\varepsilon_1$.
 | T    | 73.1 | 73.5 | 72.3 | 70.9 | 67.5 | 66.9 | 64.3 | 62.1 |
 | S    | 79.3 | 79.6 | 77.9 | 74.6 | 72.2 | 72.1 | 71.6 | 70.2 |
 | Twe  | 82.4 | 81.5 | 81.3 | 75.1 | 73.2 | 71.2 | 68.4 | 67.2 |
+
 Table2: The efftcts of $\varepsilon_2$ 
 
 
@@ -36,6 +55,7 @@ Table2: The efftcts of $\varepsilon_2$
 | T    | 73.2  | 74.4  | 75.1  | 73.5  | 73.2  |
 | S    | 78.9  | 79.1  | 79.7  | 79.6  | 79.2  |
 | Twe  | 81.2  | 83.1  | 82.7  | 82.4  | 82.1  |
+
 Table3: The efftcts of $\varepsilon_3$ 
 
 |      | 1     | 5     | 10    | 15    | 20    |
@@ -48,4 +68,5 @@ Table3: The efftcts of $\varepsilon_3$
 | T    | 72.8  | 74.3  | 73.5  | 76.2  | 73.2  |
 | S    | 79.9  | 78.9  | 79.6  | 78.2  | 79.3  |
 | Twe  | 83.1  | 83.6  | 82.4  | 82.1  | 82.7  |
+
 Table4: The efftcts of $lambda$ 
