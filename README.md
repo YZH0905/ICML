@@ -2,6 +2,14 @@
 
 Figure1: Convergence curve comparison diagram.
 
+| | RSTC | RSTC | Our  | Our|
+|-|-|-|-|-|
+| Data size| 20,000 | 80,000| 20,000| 80,000|
+| Runtime|33:2|1:09:1| 23:5|31:4| 
+| ACC| 80.1| 78.8| 86.0| 85.7|
+
+Table1: The comparison runtime is affected by the size of the dataset. 
+
 ![image](https://github.com/YZH0905/ICML/blob/master/hyperparameter.png)
 
 Figure2: The efftcts of pyperparameter on all datasets.
@@ -19,7 +27,7 @@ Figure2: The efftcts of pyperparameter on all datasets.
 | S    | 79.9 | 79.6 | 79.3 | 79.2 |
 | Twe  | 82.1 | 82.4 | 81.9 | 81.6 |
 
-Table1: The efftcts of $\varepsilon_1$. 
+Table2: The efftcts of $\varepsilon_1$. 
 
 |      | 0.3  | 0.6  | 1    | 10   | 35   | 70   | 100  | 1000 |
 |------|------|------|------|------|------|------|------|------|
@@ -32,7 +40,7 @@ Table1: The efftcts of $\varepsilon_1$.
 | S    | 79.3 | 79.6 | 77.9 | 74.6 | 72.2 | 72.1 | 71.6 | 70.2 |
 | Twe  | 82.4 | 81.5 | 81.3 | 75.1 | 73.2 | 71.2 | 68.4 | 67.2 |
 
-Table2: The efftcts of $\varepsilon_2$ 
+Table3: The efftcts of $\varepsilon_2$ 
 
 
 |      | 10    | 15    | 20    | 25    | 30    |
@@ -46,7 +54,7 @@ Table2: The efftcts of $\varepsilon_2$
 | S    | 78.9  | 79.1  | 79.7  | 79.6  | 79.2  |
 | Twe  | 81.2  | 83.1  | 82.7  | 82.4  | 82.1  |
 
-Table3: The efftcts of $\varepsilon_3$ 
+Table4: The efftcts of $\varepsilon_3$ 
 
 |      | 1     | 5     | 10    | 15    | 20    |
 |------|------|------|------|------|------|
@@ -59,4 +67,4 @@ Table3: The efftcts of $\varepsilon_3$
 | S    | 79.9  | 78.9  | 79.6  | 78.2  | 79.3  |
 | Twe  | 83.1  | 83.6  | 82.4  | 82.1  | 82.7  |
 
-Table4: The efftcts of $lambda$ 
+Table5: The efftcts of $lambda$ 
