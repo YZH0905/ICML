@@ -2,21 +2,11 @@
 
 Figure1: Convergence curve comparison diagram.
 
-![image](https://github.com/YZH0905/ICML/blob/master/varepsilon_1.png)
+![image](https://github.com/YZH0905/ICML/blob/master/hyperparameter.png)
 
-Figure2: The efftcts of $\varepsilon_1$.
+Figure2: The efftcts of pyperparameter on all datasets.
 
-![image](https://github.com/YZH0905/ICML/blob/master/varepsilon_2.png)
 
-Figure3: The efftcts of $\varepsilon_2$ 
-
-![image](https://github.com/YZH0905/ICML/blob/master/varepsilon_3.png)
-
-Figure4: The efftcts of $\varepsilon_3$ 
-
-![image](https://github.com/YZH0905/ICML/blob/master/lambda.png)
-
-Figure5: The efftcts of $lambda$ 
 
 |      | 0.5  | 1    | 5    | 10   |
 |------|------|------|------|------|
