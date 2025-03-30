@@ -4,3 +4,4 @@
 
 ![image](https://github.com/YZH0905/ICML/blob/master/Convergence%20curve%202-2.pdf)
 
+![image](https://github.com/YZH0905/ICML/blob/master/Convergence%20curve%202-2.png)
